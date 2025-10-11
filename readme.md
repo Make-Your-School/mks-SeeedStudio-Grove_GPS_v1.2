@@ -21,7 +21,7 @@ embedded_example_file: "examples/Grove_GPS_v1.2_minimal/Grove_GPS_v1.2_minimal.i
 
 # GPS
 
-![GPS](./50_gps.jpg)
+![GPS](./50_gps.png)
 
 ## Beschreibung
 Das GPS-Modul liefert seine genaue Position in Längen- und Breitengraden. Es kann dazu eingesetzt werden, um Bewegungen auf der Erde aufzuzeichnen oder auch Geotagging-Aufgaben zu bewältigen. Das Modul lässt sich direkt oder mithilfe des Grove Shields an einen Arduino oder Raspberry Pi anschließen. Es kommuniziert über die serielle Schnittstelle I2C.
