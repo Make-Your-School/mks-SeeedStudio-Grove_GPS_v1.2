@@ -16,6 +16,9 @@ repo_part: "Grove_GPS_v1.2"
 product_url: "https://wiki.seeedstudio.com/Grove-GPS/"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_GPS_v1.2.git"
 embedded_example_file: "examples/Grove_GPS_v1.2_minimal/Grove_GPS_v1.2_minimal.ino"
+title: 'GPS'
+status: 'active'
+difficulty: 'advanced'
 ---
 
 
